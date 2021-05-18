@@ -113,3 +113,13 @@
 .section.complete .txt_price{
 	font-size:20px;
 }
+
+.section.complete .btn_reset{
+	width:100px;
+	height:45px;
+	border: 0;
+	background: #59cecc;
+	border-radius: 4px;
+	font-weight: bold;
+	margin-top: 30px;
+}
